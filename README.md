@@ -1,10 +1,12 @@
 # Dii Sports
 Dii Sports = Funny mod for wii sports made by me and @OGamer66.
 
-# Todos
+https://gamebanana.com/projects/35945
+
+## Todos
 Fix a Riivolution patch; 30% completed.
 
-# Compatibility
+## Compatibility
 This mod is in a very early stage. We have NOT created a Riivolution patch yet.
 
 
